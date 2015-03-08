@@ -1,0 +1,6 @@
+c:\users\ömer\documents\visual studio 2013\Projects\DizininEnBuyukElemani_AA\DizininEnBuyukElemani_AA\bin\Debug\DizininEnBuyukElemani_AA.exe.config
+c:\users\ömer\documents\visual studio 2013\Projects\DizininEnBuyukElemani_AA\DizininEnBuyukElemani_AA\bin\Debug\DizininEnBuyukElemani_AA.exe
+c:\users\ömer\documents\visual studio 2013\Projects\DizininEnBuyukElemani_AA\DizininEnBuyukElemani_AA\bin\Debug\DizininEnBuyukElemani_AA.pdb
+c:\users\ömer\documents\visual studio 2013\Projects\DizininEnBuyukElemani_AA\DizininEnBuyukElemani_AA\obj\Debug\DizininEnBuyukElemani_AA.csprojResolveAssemblyReference.cache
+c:\users\ömer\documents\visual studio 2013\Projects\DizininEnBuyukElemani_AA\DizininEnBuyukElemani_AA\obj\Debug\DizininEnBuyukElemani_AA.exe
+c:\users\ömer\documents\visual studio 2013\Projects\DizininEnBuyukElemani_AA\DizininEnBuyukElemani_AA\obj\Debug\DizininEnBuyukElemani_AA.pdb
